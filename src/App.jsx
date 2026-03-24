@@ -7,7 +7,7 @@ function App() {
       <header className="App-header">
         <img src={logo} className="App-logo" alt="logo" />
         <p>
-          Edit <code>src/App.jsx</code> and save to reload.
+          Edit <code>src/App.jsx</code> and save to reloaddd.
         </p>
         <a
           className="App-link"
@@ -17,6 +17,7 @@ function App() {
         >
           Learn React
         </a>
+        <h1>Hola Mundo</h1>
       </header>
     </div>
   );
